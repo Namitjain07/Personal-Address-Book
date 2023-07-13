@@ -8,7 +8,7 @@ Make sure you have Python installed on your system. This program is compatible w
 
 ## Getting Started
 
-1. Clone the repository or copy the code into a Python file (e.g., ` python "Personal Address Book.py"`).
+1. Clone the repository or copy the code into a Python file (e.g., `Personal Address Book.py`).
 2. Open a terminal or command prompt and navigate to the directory where the file is located.
 
 ## Usage
@@ -16,7 +16,7 @@ Make sure you have Python installed on your system. This program is compatible w
 Run the Python program using the following command:
 
 ```python
-python address_book.py
+python "Personal Address Book.py"
 ```
 
 
