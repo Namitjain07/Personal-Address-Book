@@ -1,0 +1,2 @@
+# Personal Address Book
+ This is a Python program that allows you to manage your personal address book. The address book is stored as a dictionary, where each entry contains the name, address, phone number, and email address of a person. The program provides various operations such as inserting a new entry, deleting an entry, finding matching entries by partial name, finding an entry by phone number or email, and merging address books with your friends.
